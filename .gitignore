@@ -47,4 +47,4 @@ Thumbs.db
 
 # environment storage files for development server
 
-/environments
+/src/environments
