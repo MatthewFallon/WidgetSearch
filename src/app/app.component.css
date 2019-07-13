@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  letter-spacing: .8rem;
+  text-shadow: darkorchid 0 0 1px;
+  color: lavender;
+  font-size: 4rem;
+  height: auto;
+  transition: height 0.2s ease;
+  overflow: hidden;
+}
+.collapsed {
+  height: 0;
+}
